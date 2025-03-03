@@ -30,7 +30,7 @@ Manual & Automation Testing Engineer at DAZN
 
 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/abhilash-sriramula-208711209
-- GitHub: AbhiSriramula
+- GitHub: [AbhiSriramula](https://github.com/AbhiSriramula/AbhiSriramula)
 - Email: abhilashsriramula3@gmail.com
 
 
